@@ -1,0 +1,21 @@
+# Virtual environments (not tracked)
+venv/
+venv 2/
+my_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and local config
+.env
+.python-version
+all_installed.txt
+
+# System files (Mac & Windows)
+.DS_Store
+Thumbs.db
