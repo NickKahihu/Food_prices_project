@@ -19,3 +19,5 @@ all_installed.txt
 # System files (Mac & Windows)
 .DS_Store
 Thumbs.db
+
+/Logs/scheduler/
